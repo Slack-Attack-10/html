@@ -1,1 +1,4 @@
-# html
+# HTML
+
+## DOCTYPE (HTML5)
+`<!DOCTYPE html>`
