@@ -55,4 +55,6 @@ Sichtbarer Inhalt
 ## Paragraph
 `<p></p>`
 
-
+## pre
+Übernimmt alle Leerzeichen und Zeilenumbrüche wie im HTML-Dokument
+`<pre></pre>`
