@@ -58,3 +58,6 @@ Sichtbarer Inhalt
 ## pre
 Übernimmt alle Leerzeichen und Zeilenumbrüche wie im HTML-Dokument
 `<pre></pre>`
+
+## Bild
+`<img src="" alt="">`
